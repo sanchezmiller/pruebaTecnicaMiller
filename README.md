@@ -48,10 +48,9 @@ El archivo `servicio.zip` contiene el proyecto Laravel.
 
 ### Pasos para ejecutar:
 
-1. Descomprimir **ervicio.zip**
-2. Abrir la carpeta del proyecto Laravel con Visual Studio Code.
-3. Verificar las credenciales de conexión a la base de datos en el archivo **.env**.
-4. En la terminal, ejecutar el siguiente comando:
+1. Abrir la carpeta crud-formulario con Visual Studio Code.
+2. Verificar las credenciales de conexión a la base de datos en el archivo **.env**.
+3. En la terminal, ejecutar el siguiente comando:
    
    php artisan serve
    
